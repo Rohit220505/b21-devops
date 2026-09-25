@@ -1,1 +1,1 @@
-echo " This is the cart branch we are going to use"
+echo " This is the CART branch we are going to use"
